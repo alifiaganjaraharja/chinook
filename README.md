@@ -62,7 +62,7 @@ Question 2: Who are the top 10 best-selling artists?
 | Lenny Kravitz                    | 372.51                   |
 | Van Halen                        | 336.82                   |
 | The Office                       | 328.8                    |
-See visualization [here](input the link here)
+See visualization [here](https://github.com/alifiaganjaraharja/chinook/blob/main/%5Bvisualization%5D-Question2.pdf)
 
 From the total of 275 artists, these are the top 10 best-selling artists. **Iron Maiden is the artist with the most revenue in total $1233.54**
 

@@ -26,7 +26,7 @@ This is a classic project using the Chinook database, which mimics a digital mus
 
     For more detailed information about columns from each table and the data type, please go [here](https://github.com/alifiaganjaraharja/chinook/blob/main/README2.md)
 
-3. **Tools Used**: SQLite and [input visualization tool here]
+3. **Tools Used**: SQLite and Looker
 
 ## Result and Findings
 

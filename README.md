@@ -64,4 +64,4 @@ Question 2: Who are the top 10 best-selling artists?
 | The Office                       | 328.8                    |
 See visualization [here](input the link here)
 
-From the total of 275 artists, these are the top 10 best-selling artists. **Iron Maiden** is the artist with the most revenue in total $1233.54**
+From the total of 275 artists, these are the top 10 best-selling artists. **Iron Maiden is the artist with the most revenue in total $1233.54**

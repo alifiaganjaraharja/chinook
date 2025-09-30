@@ -46,19 +46,22 @@ Question 1: Which countries have the most invoices?
 | Chile                       | 47                         |
 See visualization [here](input the link here)
 
-From the total of 412 countries, these are the top 10 countries with the most invoices. The USA is the country with the most invoices, with a total of 523 invoices.
+From the total of 412 countries, these are the top 10 countries with the most invoices. **The USA is the country with the most invoices, with a total of 523 invoices.**
 
 Question 2: Who are the top 10 best-selling artists?
 
-| **Artists**                 | **Total Invoicies**        |
-|-----------------------------|----------------------------|
-| USA                         | 523                        |
-| Canada                      | 304                        |
-| France                      | 195                        |
-| Brazil                      | 190                        |
-| Germany                     | 156                        |
-| United Kingdom              | 113                        |
-| Czech Republic              | 90                         |
-| Portugal                    | 77                         |
-| India                       | 75                         |
-| Chile                       | 47                         |
+| **Artists Name**                 | **Total Revenue**        |
+|----------------------------------|--------------------------|
+| Iron Maiden                      | 1233.54                  |
+| U2                               | 895.59                   |
+| Lost                             | 833.7                    |
+| Led Zeppelin                     | 620.73                   |
+| Metallica                        | 599.94                   |
+| Deep Purple                      | 550.44                   |
+| Pearl Jam                        | 408/87                   |
+| Lenny Kravitz                    | 372.51                   |
+| Van Halen                        | 336.82                   |
+| The Office                       | 328.8                    |
+See visualization [here](input the link here)
+
+From the total of 275 artists, these are the top 10 best-selling artists. **Iron Maiden** is the artist with the most revenue in total $1233.54**

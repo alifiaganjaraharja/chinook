@@ -17,6 +17,7 @@ By Alifia Ganjaraharja
    - tracks
 
 For more detailed information about columns from each table and the data type, please go here [input the link to another readme file that contains the schema of each table]
+
 3. **Tools Used**: SQLite and [input visualization tool here]
 
 ## Result and Findings

@@ -65,3 +65,11 @@ Question 2: Who are the top 10 best-selling artists?
 See visualization [here](input the link here)
 
 From the total of 275 artists, these are the top 10 best-selling artists. **Iron Maiden is the artist with the most revenue in total $1233.54**
+
+Question 3: Which music genre is the most popular in the USA?
+
+From a total of 25 music genres, **the most popular in the USA is the Rock genre with total sales $1526.14**.
+
+Question 4: Who is our best customer?
+
+From the total of 59 customers, **the best customer who had spent the most money is Helena Holý with a total spent of $49.62**

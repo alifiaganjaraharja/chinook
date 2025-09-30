@@ -24,7 +24,7 @@ This is a classic project using the Chinook database, which mimics a digital mus
    - playlists
    - tracks
 
-    For more detailed information about columns from each table and the data type, please go here [input the link to another readme file that contains the schema of each table]
+    For more detailed information about columns from each table and the data type, please go [here](https://github.com/alifiaganjaraharja/chinook/blob/main/README2.md)
 
 3. **Tools Used**: SQLite and [input visualization tool here]
 

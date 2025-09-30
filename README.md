@@ -3,7 +3,7 @@ By Alifia Ganjaraharja
 
 ## Project Overview:
 1. **Goals**: Analyze the top market from this store, the top artists, genre popularity, and customer value by determining who is the best customer
-2. **Dataset**: The dataset used for this project was downloaded from the SQLite Tutorial website. You can download the full dataset here or find it within this repository under the file '[input the file name here]'. The dataset includes about 11 tables with diverse information for each table:
+2. **Dataset**: The dataset used for this project was downloaded from the SQLite Tutorial website. You can download the full dataset [here](https://www.sqlitetutorial.net/sqlite-sample-database/) or find it within this repository under the file '[input the file name here]'. The dataset includes about 11 tables with diverse information for each table:
    - albums
    - artists
    - customers

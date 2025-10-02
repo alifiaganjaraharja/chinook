@@ -1,6 +1,8 @@
 # [Chinook] - Music Store Analysis Project
 By Alifia Ganjaraharja
 
+This repository contains a data analysis project using SQL to query the classic Chinook database. The project aims to answer business-related questions about a digital music store, making it excellent for practicing fundamental and intermediate SQL concepts. 
+
 ## Project Overview:
 This is a classic project using the Chinook database, which mimics a digital music store like iTunes. It's perfect for people who are practicing fundamental concepts, such as joins and aggregations. 
 1. **Goals**: Act as a data analyst for the music store and provide insights to the marketing team.

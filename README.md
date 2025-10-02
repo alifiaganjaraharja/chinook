@@ -2,7 +2,7 @@
 By Alifia Ganjaraharja
 
 ## Project Overview:
-This is a classic project using the Chinook database, which mimics a digital music store like iTunes. It's perfect for people who are practicing fundamental concepts like joins and aggregations. 
+This is a classic project using the Chinook database, which mimics a digital music store like iTunes. It's perfect for people who are practicing fundamental concepts, such as joins and aggregations. 
 1. **Goals**: Act as a data analyst for the music store and provide insights to the marketing team.
 
    **Sample Questions to Answer**:
@@ -34,19 +34,19 @@ Question 1: Which countries have the most invoices?
 
 | **Country**                 | **Total Invoicies**        |
 |-----------------------------|----------------------------|
-| USA                         | 523                        |
-| Canada                      | 304                        |
-| France                      | 195                        |
-| Brazil                      | 190                        |
-| Germany                     | 156                        |
-| United Kingdom              | 113                        |
-| Czech Republic              | 90                         |
-| Portugal                    | 77                         |
-| India                       | 75                         |
-| Chile                       | 47                         |
+| USA                         | 19103                      |
+| Canada                      | 11963                      |
+| Brazil                      | 7399                       |
+| France                      | 7168                       |
+| Germany                     | 4697                       |
+| United Kingdom              | 4382                       |
+| Czech Republic              | 3143                       |
+| Portugal                    | 2870                       |
+| India                       | 2758                       |
+| Finland                     | 1757                       |
 See visualization [here](input the link here)
 
-From the total of 412 countries, these are the top 10 countries with the most invoices. **The USA is the country with the most invoices, with a total of 523 invoices.**
+From the total of 412 countries, these are the top 10 countries with the most invoices. The USA is the country with the most invoices, totaling 19,103.**
 
 Question 2: Who are the top 10 best-selling artists?
 

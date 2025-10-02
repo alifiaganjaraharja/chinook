@@ -46,7 +46,7 @@ Question 1: Which countries have the most invoices?
 | Finland                     | 1757                       |
 See visualization [here](input the link here)
 
-From the total of 412 countries, these are the top 10 countries with the most invoices. The USA is the country with the most invoices, totaling 19,103.**
+From the total of 412 countries, these are the top 10 countries with the most invoices. **The USA is the country with the most invoices, totaling 19,103.**
 
 Question 2: Who are the top 10 best-selling artists?
 
